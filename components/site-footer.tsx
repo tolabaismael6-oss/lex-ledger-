@@ -24,7 +24,7 @@ const hours = [
 
 export function SiteFooter() {
   return (
-    <footer id="contacto" className="bg-primary text-primary-foreground">
+    <footer id="contacto" className="scroll-mt-20 bg-primary text-primary-foreground">
       <div className="mx-auto max-w-6xl px-4 py-16 md:px-6">
         <div className="grid gap-12 lg:grid-cols-[1.2fr_1fr_1fr_1.4fr]">
           {/* Brand + contact */}
