@@ -9,7 +9,7 @@ const points = [
 
 export function About() {
   return (
-    <section id="nosotros" className="bg-background py-20 md:py-28">
+    <section id="nosotros" className="scroll-mt-20 bg-background py-20 md:py-28">
       <div className="mx-auto grid max-w-6xl items-center gap-12 px-4 md:grid-cols-2 md:px-6 lg:gap-16">
         <div className="relative">
           <div className="overflow-hidden rounded-xl shadow-xl">
