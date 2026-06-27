@@ -29,7 +29,7 @@ const areas = [
 
 export function PracticeAreas() {
   return (
-    <section id="areas" className="bg-primary py-20 md:py-28">
+    <section id="areas" className="scroll-mt-20 bg-primary py-20 md:py-28">
       <div className="mx-auto max-w-6xl px-4 md:px-6">
         <div className="mx-auto max-w-2xl text-center">
           <span className="rounded-full bg-secondary/15 px-3 py-1 text-sm font-semibold uppercase tracking-widest text-secondary">
