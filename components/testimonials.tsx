@@ -27,7 +27,7 @@ const testimonials = [
 
 export function Testimonials() {
   return (
-    <section id="testimonios" className="relative isolate overflow-hidden py-20 md:py-28">
+    <section id="testimonios" className="scroll-mt-20 relative isolate overflow-hidden py-20 md:py-28">
       <Image
         src="/images/library.png"
         alt=""
